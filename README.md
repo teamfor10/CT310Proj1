@@ -1,3 +1,4 @@
+
 # CT310Proj1
 Cooking Ingredients Site pt. 1
 
@@ -10,15 +11,25 @@ As you work on this Project, keep in mind that the code you are writing will liv
 Requirements Summary
 
 Here briefly are working requirements and components that must be present in your site.
+
 •All pages to be developed using PHP, HTML and CSS
+
 •A Home page - Welcome message, info and links about other sections etc.
+
 •An About us page
+
 •A Common Header (Title and Logo), Footer and Navigation elements on all pages - Please implement using the PHP include tag.
+
 •An Authentication Page - a simple hardwired authentication - hardcode at least 3 sets of credentials. One for each of you on the team and a third with Username: ct310. The password for this user is provided below.
+
 •Individual pages for each ingredient sold. For now, these are real pages in the sense there is a *.php file on the server for each ingredient. You will be assigned three ingredents that must appear on your site.
+
 •Provision for commenting on an ingredient. Comments may only be entered by authenticated users. For Project 1 you need only redisplay the comment temporarily. To be clear, you need not yet build and archival store able to retain comments over time. That requirement will come in Project 2.
+
 •You need sanitize user input. Refer to this  Sanitize and Validate Data with PHP Filters  for a nice explanation of how best to sanitize input. 
+
 •Each Ingredient needs a picture, and you must include an acknowledgement with each picture clearly showing the origin of the picture and in so doing indicating your right to use that image.
+
 •All your pages will carry a disclaimer on the footer in fine print which reads: "This site is part of a CSU CT 310 Course Project." The text "CT 310" will be a link to the course homepage.
  
 Appearance
