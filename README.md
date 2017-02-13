@@ -4,7 +4,7 @@ Cooking Ingredients Site pt. 1
 
 Overview: A Cooking Ingredients Site.
 
-This is a Paired Programming Project. It is the first in a three part semester project working toward a class federation of fresh ingredients supply websites. Teams will be assigned through Canvas by close of Friday 2/3/17. The detailed functionality expected for a site will laid out in each project assignment. There is not shortage of online sites selling food products. Your efforts will be simpler in many ways, but you can begin to think about layout and such be examining examples. With no particular reason to favor this site over others, you might look at Mellisa's: The Freshest Ideas in Produce. As you can see, sits such as this have a set of requirements to maintain a meaingful web presenece. 
+This is a Paired Programming Project. It is the first in a three part semester project working toward a class federation of fresh ingredients supply websites. Teams will be assigned through Canvas by close of Friday 2/3/17. The detailed functionality expected for a site will laid out in each project assignment. There is not shortage of online sites selling food products. Your efforts will be simpler in many ways, but you can begin to think about layout and such by examining examples. With no particular reason to favor this site over others, you might look at Mellisa's: The Freshest Ideas in Produce. As you can see, sites such as this have a set of requirements to maintain a meaningful web presence.
 
 As you work on this Project, keep in mind that the code you are writing will live on past this Project and into Project 2. Moreover, you will have a new partner in Project 2 and the first thing that you will be doing in Project 2 with your new partner is reviewing each others code base to decide what parts to keep, and what parts to leave behind. For this reason, if for no other, focus on writing clear, documented, maintainable and extendable code.
 
@@ -22,21 +22,21 @@ Here briefly are working requirements and components that must be present in you
 
 •An Authentication Page - a simple hardwired authentication - hardcode at least 3 sets of credentials. One for each of you on the team and a third with Username: ct310. The password for this user is provided below.
 
-•Individual pages for each ingredient sold. For now, these are real pages in the sense there is a *.php file on the server for each ingredient. You will be assigned three ingredents that must appear on your site.
+•Individual pages for each ingredient sold. For now, these are real pages in the sense there is a *.php file on the server for each ingredient. You will be assigned three ingredients that must appear on your site.
 
 •Provision for commenting on an ingredient. Comments may only be entered by authenticated users. For Project 1 you need only redisplay the comment temporarily. To be clear, you need not yet build and archival store able to retain comments over time. That requirement will come in Project 2.
 
-•You need sanitize user input. Refer to this  Sanitize and Validate Data with PHP Filters  for a nice explanation of how best to sanitize input. 
+•You need sanitize user input. Refer to this  Sanitize and Validate Data with PHP Filters  for a nice explanation of how best to sanitize input.
 
 •Each Ingredient needs a picture, and you must include an acknowledgement with each picture clearly showing the origin of the picture and in so doing indicating your right to use that image.
 
 •All your pages will carry a disclaimer on the footer in fine print which reads: "This site is part of a CSU CT 310 Course Project." The text "CT 310" will be a link to the course homepage.
- 
+
 Appearance
 
 The appearance of your site must be professional. We recognize that at one level 'Professional' is a vague term, but you are an experienced consumer of web content and should have your own understanding now of what is and is not a well designed site. We will of course discuss this in class and if in serious doubt, ask. As a guide, here are some general hints:
-1.Design broadly how you entend to structure your pages before building them. Answer for yourselves how you want layout to flow and then implement that flow consistently and smoothly.
-2.Keep it simple. A clean consistent reliable layout is better then one that is cluttered and inconsistent.
+1.Design broadly how you intend to structure your pages before building them. Answer for yourselves how you want layout to flow and then implement that flow consistently and smoothly.
+2.Keep it simple. A clean consistent reliable layout is better than one that is cluttered and inconsistent.
 3.You must use the Bootstrap Framework to support your implementation. Alternative Frameworks may be approved on case-by-case basis if a team wishes to ask.
 4.Have a color palette theme of your choice to maintain consistency and professional look and feel.
 5.Do think about font styling and size. Text elements whose size and appearance is out-of-step with its surroundings are visually jarring and generally unpleasant.

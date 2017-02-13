@@ -1,0 +1,21 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  margin 0;
+  border: 3px solid purple;
+}
+
+#footer{
+  border: 1px dotted green;
+}
+
+#footerLeft{
+  text-align: left;
+}
+#footerCenter{
+  text-align: center;
+}
+#footerRight{
+  text-align: right;
+  /*float: right;*/
+}

@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "bangkok.cs.colostate.edu",
+  "port": "22",
+  "target": "public_html",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "astaven",
+  "password": "a$a082289",
+  "watch": [],
+  "transport": "scp"
+}
