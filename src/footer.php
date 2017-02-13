@@ -1,4 +1,5 @@
 <div id="footer">
+
 	<div class="row">
 		<div class="col-sm-3 col-xs-12" id="footerLeft"></div>
 		<div class="col-sm-6 col-xs-12" id="footerCenter">
@@ -12,6 +13,9 @@
 			<!-- <div id="footerRight">
 				<a href="http://www.cs.colostate.edu"> <img src="../res_images/csBuildingLowerRight.png" alt="CS Department" height="48" width="185" style="border: 0px;"></a>
 			</div> -->
+			<?php
+				echo "<p>Copyright &copy; 2017 Collin Kinchen &amp; Asa Staven</p>";
+			?>
 		</div>
 		<!-- End of footer right division -->
 	</div>
