@@ -1,14 +1,53 @@
+/*Color scheme:
+Grape - #94618E;
+Eggplant - #49274A;
+Sand - #F4DECB;
+Shell - #F8EEE7;
+*/
 html, body{
   width: 100%;
   height: 100%;
   margin 0;
-  border: 3px solid purple;
+  padding: 0;
+}
+body{
+  font-family: 'Marck Script', cursive;
+  background-color: #F8EEE7;
+  color: #49274A;
 }
 
+.jumbotron{
+  background-color: #94618E;
+}
+.jumbotron #logo{
+  display: inline-block;
+  float: left;
+  margin-left: 10px;
+}
+.jumbotron #title{
+  display: inline-block;
+  float: center;
+}
+
+#myNav{
+  background-color: #F4DECB;
+  font-size: 20px;
+}
+#home-message{
+  text-align: center;
+}
+#home-message p{
+  font-size: 18px;
+}
+.carousel-caption{
+  color: #49274A;
+  font-size: 18px;
+}
 #footer{
-  border: 1px dotted green;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
 }
-
 #footerLeft{
   text-align: left;
 }
@@ -17,5 +56,4 @@ html, body{
 }
 #footerRight{
   text-align: right;
-  /*float: right;*/
 }

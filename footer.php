@@ -17,7 +17,7 @@
 
 		<div class="hidden-xs hidden-sm col-md-3 col-lg-4" id="footerRight">
 			<!-- Logo here -->
-			<p><strong>IFY</strong></p>
+			<img src="./images/logo.png" height="50px" width="auto">
 		</div>
 		<!-- End of footer right division -->
 
