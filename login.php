@@ -24,6 +24,7 @@
     </div>";
     }
 ?>
+<!--can we get the log in to just display automatically when opening the page?-->
 
 <div id="login">
   <?php if(isset($_POST['login'])):

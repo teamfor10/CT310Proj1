@@ -43,9 +43,9 @@
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Ingredients<span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="#">Ingredient 1</a></li>
-              <li><a href="#">Ingredient 2</a></li>
-              <li><a href="#">Ingredient 3</a></li>
+              <li><a href="./MapleSugar.php">Maple Sugar</a></li>
+              <li><a href="./Nori.php">Nori</a></li>
+              <li><a href="./SesameSeed.php">Sesame Seed</a></li>
             </ul>
           </li>
         </ul>

@@ -35,32 +35,32 @@
           <!-- Ingredient 1 slide -->
           <div class="item active">
             <a style="display:block" href="#">
-              <img src="./images/pic.jpg" alt="igdt 1" width="250" height="auto">
+              <img src="./images/maplesugar.jpg" alt="igdt 1" width="250" height="auto">
             </a>
             <div class="carousel-caption">
-              <h3>Ingredient 1</h3>
-              <p>Some short description - $#.##</p>
+              <h3>Maple Sugar</h3>
+              <p>Some short description - $5.99</p>
             </div>
           </div>
 
           <!-- Ingredient 2 slide -->
           <div class="item">
             <a style="display:block" href="#">
-              <img src="./images/pic.jpg" alt="igdt 2" width="250" height="auto">
+              <img src="./images/nori.jpg" alt="igdt 2" width="250" height="auto">
             </a>
             <div class="carousel-caption">
-              <h3>Ingredient 2</h3>
-              <p>Some short description - $#.##</p>
+              <h3>Nori</h3>
+              <p>Some short description - $2.99</p>
             </div>
           </div>
           <!-- Ingredient 3 slide -->
           <div class="item">
             <a style="display:block" href="#">
-              <img src="./images/pic.jpg" alt="igdt 3" width="250" height="auto">
+              <img src="./images/sesameseed.jpg" alt="igdt 3" width="250" height="auto">
             </a>
             <div class="carousel-caption">
-              <h3>Ingredient 3</h3>
-              <p>Some short description - $#.##</p>
+              <h3>Sesame Seed</h3>
+              <p>Some short description - $3.99</p>
             </div>
           </div>
 
