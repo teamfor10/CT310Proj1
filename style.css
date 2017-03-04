@@ -57,7 +57,9 @@ body{
 #footerRight{
   text-align: right;
 }
-
+#comment{
+  margin-left: 10px;
+}
 
 /****** LOGIN MODAL from http://bootsnipp.com/snippets/featured/clean-modal-login-form ******/
 #login{
