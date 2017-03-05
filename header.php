@@ -18,11 +18,10 @@
 
 <!-- Start of page Body -->
 <body >
-  <!-- Add common title/logo/navbar -->
   <!-- Use the jumbotron for creating the header for the webpage -->
   <div class="jumbotron text-center">
     <div id="logo"><img src="./images/logo.png" height="100px" width="auto"></div>
-    <div id="title"><h1>Ingredients For You Title</h1></div>
+    <div id="title"><h1>Ingredients For You</h1></div>
   </div>
 
   <!-- Create the collapsing navigation bar -->
@@ -30,11 +29,6 @@
     <div class="container-fluid" id="myNav">
 
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
         <a class="navbar-brand" href="index.php">Home</a>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">

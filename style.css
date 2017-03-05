@@ -45,7 +45,7 @@ body{
 }
 #footer{
   position: absolute;
-  bottom: 10px;
+  bottom: 0;
   width: 100%;
 }
 #footerLeft{
@@ -60,7 +60,9 @@ body{
 #comment{
   margin-left: 10px;
 }
-
+.ing{
+  margin-left: 15%;
+}
 /****** LOGIN MODAL from http://bootsnipp.com/snippets/featured/clean-modal-login-form ******/
 #login{
   margin: 20px;
