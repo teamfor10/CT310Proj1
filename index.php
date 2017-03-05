@@ -4,9 +4,12 @@
 <!-- create three coulumn with lg and md size  -->
 <div class="container-fluid" id="content">
   <div id="home-message">
-    <h2>Welcoming message here</h2>
-    <p>This is the site. blah, blah, blah<br />
-      More Inventory coming soon!</p>
+    <h2>Welcoming To Ingredients For You!</h2>
+    <p>This is your first stop to a more beautiful dinner table!<br />
+      We have the freshest ingredients in stock and we gain more <br />
+      all of the time. Explore our wares and get a sense of that new<br />
+      ingredient you need to put some excitement in the kitchen!<br />
+      <strong>More Inventory coming soon!</strong></p>
   </div>
 
 <!-- Add Main Content here -->
@@ -25,33 +28,34 @@
         <div class="carousel-inner" role="listbox">
           <!-- Ingredient 1 slide -->
           <div class="item active">
-            <a style="display:block" href="#">
-              <img src="./images/maplesugar.jpg" alt="igdt 1" width="250" height="auto">
+
+            <a style="display:block" class="ing" href="./MapleSugar.php" >
+              <img  src="./images/maplesugar.jpg" alt="igdt 1" width="250" height="auto">
             </a>
             <div class="carousel-caption">
               <h3>Maple Sugar</h3>
-              <p>Some short description - $5.99</p>
+              <p>Tasty! - $5.99</p>
             </div>
           </div>
 
           <!-- Ingredient 2 slide -->
           <div class="item">
-            <a style="display:block" href="#">
-              <img src="./images/nori.jpg" alt="igdt 2" width="250" height="auto">
+            <a style="display:block" class="ing" href="./Nori.php">
+              <img  src="./images/nori.jpg" alt="igdt 2" width="250" height="auto">
             </a>
             <div class="carousel-caption">
               <h3>Nori</h3>
-              <p>Some short description - $2.99</p>
+              <p>It's seaweed! - $2.99</p>
             </div>
           </div>
           <!-- Ingredient 3 slide -->
           <div class="item">
-            <a style="display:block" href="#">
-              <img src="./images/sesameseed.jpg" alt="igdt 3" width="250" height="auto">
+            <a style="display:block" class="ing" href="./SesameSeed.php">
+              <img  src="./images/sesameseed.jpg" alt="igdt 3" width="250" height="auto">
             </a>
             <div class="carousel-caption">
               <h3>Sesame Seed</h3>
-              <p>Some short description - $3.99</p>
+              <p>Sprinkle on some buns! - $3.99</p>
             </div>
           </div>
 
