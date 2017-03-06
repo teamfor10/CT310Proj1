@@ -62,7 +62,7 @@ body{
   margin-left: 10px;
 }
 .ing{
-  margin: auto;
+    text-align: center;
 }
 
 /****** LOGIN MODAL from http://bootsnipp.com/snippets/featured/clean-modal-login-form ******/
