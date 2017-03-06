@@ -40,7 +40,8 @@ body{
   font-size: 18px;
 }
 .carousel-caption{
-  color: #49274A;
+  font-weight: bold;
+  color: #FFF;
   font-size: 18px;
 }
 #footer{
@@ -61,8 +62,9 @@ body{
   margin-left: 10px;
 }
 .ing{
-  margin-left: 15%;
+  margin: auto;
 }
+
 /****** LOGIN MODAL from http://bootsnipp.com/snippets/featured/clean-modal-login-form ******/
 #login{
   margin: 20px;
