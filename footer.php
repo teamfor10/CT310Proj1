@@ -1,14 +1,14 @@
 <div class="container-fluid" id="footer">
 
 	<div class="row visible-on">
-		<div class="col-xs-6 col-sm-3 col-md-3 col-lg-4" id="footerLeft">
+		<div class="hidden-xs col-md-3 col-lg-4" id="footerLeft">
 			<?php
 				echo "<p>Copyright &copy; 2017 Collin Kinchen &amp; Asa Staven</p>";
 			?>
 		</div>
 		<!-- End of footer left division -->
 
-		<div class="col-xs-6 col-sm-9 col-md-6 col-lg-4" id="footerCenter">
+		<div class="hidden-xs col-md-6 col-lg-4" id="footerCenter">
       <p>This site is part of a CSU <a href="http://www.cs.colostate.edu/~ct310/yr2017sp/">
         CT 310 Course Project.</a>
       </p>
