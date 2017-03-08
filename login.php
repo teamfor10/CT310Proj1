@@ -2,7 +2,7 @@
   include 'control.php';
   include 'header.php';
 
-  $logins = array("ct310" => "e1bfd762321e409cee4ac0b6e841963c",
+  $logins = array("ct310" => "3aaec86181ee6974b99d893b4c1eb5b5",
   "astaven" => "d24774b6154a7fd12fa4965eb7381088",
   "cokin" => "9e10098c382708a8f24c4219058565fc");
 ?>
